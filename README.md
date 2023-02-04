@@ -1,2 +1,2 @@
 # Python
-Learning string data types by applying different functions and programs
+Learning operations of the Python and understanding by applying it in program.
